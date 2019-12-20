@@ -9,3 +9,5 @@ Libraries used in project: Tkinter
 
 ## Project goals:
 Drawing math figures, calculating area and perimeter using given values.
+
+File: [drawing_figures.py](./drawing_figures.py)
